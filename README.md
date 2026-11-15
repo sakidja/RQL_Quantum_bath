@@ -19,10 +19,11 @@ The method of the structured quantum bath (R. Sakidja, arXiv:2508.17514) is appl
 | `free_link_analysis.py` | Part 2: numbers of the text read from the raw files (rank correlations, counts of baths recovered) |
 | `plot_free_links.py` | Figures 9 to 12 from the saved tables |
 | `run_free_link_training.sh`, `run_free_link_control.sh`, `run_free_link_check_placement.sh`, `run_free_link_check_oldrates.sh` | Slurm scripts of Part 2 |
+| `noise_ladder_dsp.py`, `table_dsp_comparison.py`, `run_noise_ladder_dsp.sh`, `run_noise_ladder_fixed_floor.sh` | Noise ladder with the fixed floor and the multitaper spectrum, and the comparison of the four spectra |
 | `colab/structured_bath_prediction_test.ipynb` | Google Colab notebook: model of arXiv:2508.17514, prediction of unseen input states on unseen baths |
 | `results_*/` | Result tables of the runs behind the paper (CSV) |
 | `preflight_300_*/` | Preflight runs of Part 2 (300 baths each) |
-| `logs/` | Printed output of the Part 2 runs |
+| `logs/` | Printed output of the runs of Part 2 and of the noise ladder with the other spectra |
 | `figures/` | Figures 1 to 12 of the paper |
 
 ## Two attachments of the bath to the qubit
@@ -91,7 +92,7 @@ source $SCRATCH/sqb-env/bin/activate
 pip install qutip stim pymatching xgboost scikit-learn joblib pandas scipy matplotlib
 ```
 
-The Slurm scripts carry the line `#SBATCH -A YOUR_PROJECT`; put your own project there.
+The Slurm scripts carry the line `#SBATCH -A YOUR_PROJECT` or `#SBATCH --account=YOUR_PROJECT`; put your own project there.
 
 Runs:
 
@@ -180,3 +181,31 @@ The plot scripts of this repository draw on a white background. The figures of t
 scripts; Figure 1 with `SQB_ATTACH=one python plot_fft.py`.
 
 The check placement run at the trapped rates was made twice with the same settings. The second run reproduced every table of the first to the last digit; the printed output of both is in `logs/` (`log_check_placement_trapped_rates_run_1.out` and `log_check_placement_trapped_rates_run_2.out`).
+
+## Signal processing of the spectrum on the noise ladder (Section 3, paragraph "Fixed floor of the spectrum")
+
+The noise ladder of Tables 8 to 11 is repeated with three other definitions of the spectrum. `noise_ladder_dsp.py`
+is `noise_ladder.py` with the fixed floor and the two multitaper modes added; the mode is selected with the environment variable `SQB_FEATURE`.
+
+| Spectrum | `SQB_FEATURE` | Regression that drives the fit and the check | Result folders |
+| --- | --- | --- | --- |
+| Published (Tables 8 to 11) | `published` | trained on noisy signals | `results_v3_ladder_split_gamma_sys_*` |
+| Fixed floor | `fixed_floor` | trained on exact signals only | `results_v3_ladder_fixedfloor_split_gamma_sys_*` |
+| Multitaper (DPSS, 3 tapers, half bandwidth 2) | `multitaper` | trained on noisy signals | `results_v3_ladder_multitaper_split_gamma_sys_*` |
+| Multitaper with fixed floor | `multitaper_fixed_floor` | trained on exact signals only | `results_v3_ladder_multitaper_fixedfloor_split_gamma_sys_*` |
+
+Fixed floor: the log spectrum is normalized to its peak and cut at a floor fixed at the noise amplitude of the
+measurement, 2 / sqrt(points x shots), which is known from the number of shots. Multitaper: the spectral estimate
+with discrete prolate spheroidal sequences proposed as the signal processing step of the Fourier analysis in
+arXiv:2508.17514.
+
+| Paper | Script | Run | File |
+| --- | --- | --- | --- |
+| Fixed floor, R2 and logical error rate | `noise_ladder_dsp.py` | `sbatch run_noise_ladder_fixed_floor.sh` | `tableL1_inference_on_ladder.csv`, `tableL3_surface_code_on_ladder.csv` of the fixed floor folders |
+| Multitaper | `noise_ladder_dsp.py` | `sbatch run_noise_ladder_dsp.sh multitaper_fixed_floor` and `sbatch run_noise_ladder_dsp.sh multitaper` | the same two tables of the multitaper folders |
+| Ranges and counts of the paragraph (17 of 20, 10 of 10 rungs, 36 of 40, 18 of 20) | `table_dsp_comparison.py` | `python table_dsp_comparison.py`; reads the tables of the four spectra, computes nothing new, and prints the counts under "Counts quoted in the paper" | `tableD1_regression_by_feature.csv`, `tableD2_logical_error_by_feature.csv` |
+
+Every one of these folders holds Tables L1 to L3 and the raw data of every bath on every rung
+(`raw_parameters_per_bath.csv`, `raw_round_channels_per_bath.csv`). The signals and spectra
+(`raw_signals_and_spectra_<rung>.npz`) are written by the runs and are not in the repository because of their size.
+The printed output of the three runs is in `logs/`.

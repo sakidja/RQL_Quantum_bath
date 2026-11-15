@@ -209,3 +209,13 @@ Every one of these folders holds Tables L1 to L3 and the raw data of every bath 
 (`raw_parameters_per_bath.csv`, `raw_round_channels_per_bath.csv`). The signals and spectra
 (`raw_signals_and_spectra_<rung>.npz`) are written by the runs and are not in the repository because of their size.
 The printed output of the three runs is in `logs/`.
+
+## Fit from six starting points on the noise ladder (Section 3, text under Table 11)
+
+The fit of Part 1 starts from one point, the regression estimate. Here the fit of every unseen bath on the ladder is started from six points, as in Part 2: start 0 is the regression estimate, and each later start keeps the best fit so far and draws J_L1 and J_L2 again. The fit with the lowest cost is kept. The training baths keep the single start.
+
+* Script: `noise_ladder_dsp.py` with `SQB_N_STARTS=6` (with the variable unset it runs the single start and gives the earlier tables).
+* Job file: `sbatch run_noise_ladder_multistart.sh published` and `sbatch run_noise_ladder_multistart.sh fixed_floor`.
+* Result folders: `results_v3_ladder_multistart_split_gamma_sys_*` (published spectrum) and `results_v3_ladder_fixedfloor_multistart_split_gamma_sys_*` (fixed floor). Each holds the tables of the ladder and `raw_fit_starts_per_bath.csv`, the cost and the fitted parameters of every start of every bath.
+* Comparison: `python table_multistart_comparison.py` reads the four chains and writes `tableM1_fit_by_starts.csv` (Table M1, R2 after the fit by number of starts) and `tableM2_logical_error_by_starts.csv` (Table M2, logical error rate at distance 7 with 1 and 6 starts, the exact bath and the clock). It prints Table M3 (baths in which a later start gives the lowest cost) and the counts quoted in the paper. Its printout is `table_multistart_comparison.txt`.
+* Logs: `logs/log_ladder_multistart.out` and `logs/log_ladder_fixed_floor_multistart.out`.

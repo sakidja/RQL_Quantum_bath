@@ -81,14 +81,14 @@ def panel(ax, split, title):
         bond(ax, "R", "Q2", color=INK, lw=2.0, label="$J_{sb}$")
     for name in POS:
         node(ax, name)
-    ax.set_title(title, fontsize=10.5)
+    ax.text(2.9, 4.95, title, ha="center", va="center", fontsize=10.5)
     ax.set_xlim(-0.80, 6.60)
-    ax.set_ylim(-0.50, 4.60)
+    ax.set_ylim(-0.50, 5.25)
     ax.set_aspect("equal")
     ax.axis("off")
 
 
-fig, axes = plt.subplots(1, 2, figsize=(11, 3.9))
+fig, axes = plt.subplots(1, 2, figsize=(11, 4.3))
 panel(axes[0], False, "First attachment")
 panel(axes[1], True, "Split attachment")
 fig.tight_layout()

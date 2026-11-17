@@ -1,0 +1,337 @@
+T_clock,Arm,Memory_basis,Distance,Logical_errors,Shots,LER,LER_per_unit_time
+1.0,"Clock, frame calibrated",Z,3,992,20000,0.0496,0.016814475279224972
+1.0,"Clock, frame calibrated",Z,5,540,20000,0.027,0.005459283014927041
+1.0,"Clock, frame calibrated",Z,7,261,20000,0.01305,0.0018747974238260134
+1.0,"Clock, frame calibrated",X,3,961,20000,0.04805,0.016280275695258584
+1.0,"Clock, frame calibrated",X,5,441,20000,0.02205,0.004449418875023592
+1.0,"Clock, frame calibrated",X,7,179,20000,0.00895,0.0012835030099743738
+1.0,"Structured bath, ML then fit, three inputs",Z,3,980,20000,0.049,0.01660761949262035
+1.0,"Structured bath, ML then fit, three inputs",Z,5,547,20000,0.02735,0.00553084300393869
+1.0,"Structured bath, ML then fit, three inputs",Z,7,225,20000,0.01125,0.001614945983403837
+1.0,"Structured bath, ML then fit, three inputs",X,3,929,20000,0.04645,0.015729451748107914
+1.0,"Structured bath, ML then fit, three inputs",X,5,443,20000,0.02215,0.004469779656321671
+1.0,"Structured bath, ML then fit, three inputs",X,7,156,20000,0.0078,0.0011180286989949106
+1.0,"Structured bath, ML then fit, balanced input",Z,3,991,20000,0.04955,0.01679723397234345
+1.0,"Structured bath, ML then fit, balanced input",Z,5,528,20000,0.0264,0.005336656643562643
+1.0,"Structured bath, ML then fit, balanced input",Z,7,226,20000,0.0113,0.0016221586017320933
+1.0,"Structured bath, ML then fit, balanced input",X,3,923,20000,0.04615,0.015626240868281238
+1.0,"Structured bath, ML then fit, balanced input",X,5,479,20000,0.02395,0.004836558873658081
+1.0,"Structured bath, ML then fit, balanced input",X,7,155,20000,0.00775,0.0011108378935762442
+1.0,"Structured bath, ML alone, three inputs",Z,3,977,20000,0.04885,0.016555919141307607
+1.0,"Structured bath, ML alone, three inputs",Z,5,506,20000,0.0253,0.005111998561900255
+1.0,"Structured bath, ML alone, three inputs",Z,7,239,20000,0.01195,0.001715951102013058
+1.0,"Structured bath, ML alone, three inputs",X,3,948,20000,0.0474,0.016056429084767343
+1.0,"Structured bath, ML alone, three inputs",X,5,506,20000,0.0253,0.005111998561900255
+1.0,"Structured bath, ML alone, three inputs",X,7,172,20000,0.0086,0.0012331238479911244
+1.0,Full map without the layer 2 bonds,Z,3,1027,20000,0.05135,0.017418302369029748
+1.0,Full map without the layer 2 bonds,Z,5,563,20000,0.02815,0.005694486081635586
+1.0,Full map without the layer 2 bonds,Z,7,234,20000,0.0117,0.001679870806292505
+1.0,Full map without the layer 2 bonds,X,3,913,20000,0.04565,0.015454270815494109
+1.0,Full map without the layer 2 bonds,X,5,453,20000,0.02265,0.004571608556354967
+1.0,Full map without the layer 2 bonds,X,7,167,20000,0.00835,0.001197148065044007
+1.0,Vertical links only,Z,3,952,20000,0.0476,0.01612529411655128
+1.0,Vertical links only,Z,5,534,20000,0.0267,0.005397962269825918
+1.0,Vertical links only,Z,7,243,20000,0.01215,0.00174482097302453
+1.0,Vertical links only,X,3,945,20000,0.04725,0.016004786636191204
+1.0,Vertical links only,X,5,444,20000,0.0222,0.004479960671636696
+1.0,Vertical links only,X,7,167,20000,0.00835,0.001197148065044007
+1.0,"Structured bath, exact (bound)",Z,3,957,20000,0.04785,0.016211388965157836
+1.0,"Structured bath, exact (bound)",Z,5,544,20000,0.0272,0.00550017191515928
+1.0,"Structured bath, exact (bound)",Z,7,237,20000,0.01185,0.0017015180448288758
+1.0,"Structured bath, exact (bound)",X,3,969,20000,0.04845,0.01641807810639162
+1.0,"Structured bath, exact (bound)",X,5,490,20000,0.0245,0.004948738230007077
+1.0,"Structured bath, exact (bound)",X,7,189,20000,0.00945,0.001355499702358931
+2.0,"Clock, frame calibrated",Z,3,4523,20000,0.22615,0.041829495405346306
+2.0,"Clock, frame calibrated",Z,5,5429,20000,0.27145,0.031173663210237068
+2.0,"Clock, frame calibrated",Z,7,5139,20000,0.25695,0.020990282079928146
+2.0,"Clock, frame calibrated",X,3,4015,20000,0.20075,0.03665812054225692
+2.0,"Clock, frame calibrated",X,5,4215,20000,0.21075,0.02338934308716545
+2.0,"Clock, frame calibrated",X,7,4017,20000,0.20085,0.01588720388148157
+2.0,"Structured bath, ML then fit, three inputs",Z,3,4488,20000,0.2244,0.03730257638874346
+2.0,"Structured bath, ML then fit, three inputs",Z,5,5233,20000,0.26165,0.026860237219259786
+2.0,"Structured bath, ML then fit, three inputs",Z,7,5111,20000,0.25555,0.018742872912733688
+2.0,"Structured bath, ML then fit, three inputs",X,3,4055,20000,0.20275,0.03332934154026734
+2.0,"Structured bath, ML then fit, three inputs",X,5,3944,20000,0.1972,0.01952267552456588
+2.0,"Structured bath, ML then fit, three inputs",X,7,3717,20000,0.18585,0.013096074860245333
+2.0,"Structured bath, ML then fit, balanced input",Z,3,4601,20000,0.23005,0.038354977685089664
+2.0,"Structured bath, ML then fit, balanced input",Z,5,5349,20000,0.26745,0.027548860325314006
+2.0,"Structured bath, ML then fit, balanced input",Z,7,5070,20000,0.2535,0.018569852592715375
+2.0,"Structured bath, ML then fit, balanced input",X,3,4044,20000,0.2022,0.0332296057401813
+2.0,"Structured bath, ML then fit, balanced input",X,5,3918,20000,0.1959,0.0193802667762224
+2.0,"Structured bath, ML then fit, balanced input",X,7,3665,20000,0.18325,0.01289430764687638
+2.0,"Structured bath, ML alone, three inputs",Z,3,4592,20000,0.2296,0.03818859869651969
+2.0,"Structured bath, ML alone, three inputs",Z,5,5232,20000,0.2616,0.02679621675328081
+2.0,"Structured bath, ML alone, three inputs",Z,7,5154,20000,0.2577,0.018883698016845085
+2.0,"Structured bath, ML alone, three inputs",X,3,4076,20000,0.2038,0.033447630357244185
+2.0,"Structured bath, ML alone, three inputs",X,5,4286,20000,0.2143,0.021369234345895216
+2.0,"Structured bath, ML alone, three inputs",X,7,4120,20000,0.206,0.01464857512272244
+2.0,Full map without the layer 2 bonds,Z,3,4621,20000,0.23105,0.03886301048794483
+2.0,Full map without the layer 2 bonds,Z,5,5253,20000,0.26265,0.02720473202150575
+2.0,Full map without the layer 2 bonds,Z,7,5133,20000,0.25665,0.01899443569893322
+2.0,Full map without the layer 2 bonds,X,3,3959,20000,0.19795,0.03273217544265028
+2.0,Full map without the layer 2 bonds,X,5,3978,20000,0.1989,0.01987503401514301
+2.0,Full map without the layer 2 bonds,X,7,3768,20000,0.1884,0.013406765687513311
+2.0,Vertical links only,Z,3,4536,20000,0.2268,0.03835528784288511
+2.0,Vertical links only,Z,5,5205,20000,0.26025,0.02712614414041381
+2.0,Vertical links only,Z,7,5007,20000,0.25035,0.01860196198614794
+2.0,Vertical links only,X,3,4118,20000,0.2059,0.034447462488767844
+2.0,Vertical links only,X,5,3946,20000,0.1973,0.019850485879345237
+2.0,Vertical links only,X,7,3969,20000,0.19845,0.014311566270508558
+2.0,"Structured bath, exact (bound)",Z,3,4544,20000,0.2272,0.037823302554011895
+2.0,"Structured bath, exact (bound)",Z,5,5181,20000,0.25905,0.026553141152362625
+2.0,"Structured bath, exact (bound)",Z,7,4982,20000,0.2491,0.01819998842457493
+2.0,"Structured bath, exact (bound)",X,3,4068,20000,0.2034,0.0334472865866976
+2.0,"Structured bath, exact (bound)",X,5,4002,20000,0.2001,0.019841114513241997
+2.0,"Structured bath, exact (bound)",X,7,3755,20000,0.18775,0.013243901847726391
+3.0,"Clock, frame calibrated",Z,3,6274,20000,0.3137,0.04096404664827513
+3.0,"Clock, frame calibrated",Z,5,7476,20000,0.3738,0.030723825607551714
+3.0,"Clock, frame calibrated",Z,7,8338,20000,0.4169,0.02535848397407081
+3.0,"Clock, frame calibrated",X,3,5091,20000,0.25455,0.032113839867004224
+3.0,"Clock, frame calibrated",X,5,5861,20000,0.29305,0.02285447692321363
+3.0,"Clock, frame calibrated",X,7,6729,20000,0.33645,0.01934150896934761
+3.0,"Structured bath, ML then fit, three inputs",Z,3,3771,20000,0.18855,0.012344245221250993
+3.0,"Structured bath, ML then fit, three inputs",Z,5,4021,20000,0.20105,0.007974432035611656
+3.0,"Structured bath, ML then fit, three inputs",Z,7,3311,20000,0.16555,0.00460057056849017
+3.0,"Structured bath, ML then fit, three inputs",X,3,3033,20000,0.15165,0.009729647298979738
+3.0,"Structured bath, ML then fit, three inputs",X,5,2585,20000,0.12925,0.004924587640263045
+3.0,"Structured bath, ML then fit, three inputs",X,7,2183,20000,0.10915,0.002940468906391658
+3.0,"Structured bath, ML then fit, balanced input",Z,3,3867,20000,0.19335,0.012689788066813978
+3.0,"Structured bath, ML then fit, balanced input",Z,5,3902,20000,0.1951,0.007710169848687443
+3.0,"Structured bath, ML then fit, balanced input",Z,7,3198,20000,0.1599,0.004428449311268845
+3.0,"Structured bath, ML then fit, balanced input",X,3,3122,20000,0.1561,0.01003704095257496
+3.0,"Structured bath, ML then fit, balanced input",X,5,2617,20000,0.13085,0.0049887796090580805
+3.0,"Structured bath, ML then fit, balanced input",X,7,2203,20000,0.11015,0.002968353490459541
+3.0,"Structured bath, ML alone, three inputs",Z,3,4155,20000,0.20775,0.01368100740759326
+3.0,"Structured bath, ML alone, three inputs",Z,5,4491,20000,0.22455,0.00898537450153547
+3.0,"Structured bath, ML alone, three inputs",Z,7,4062,20000,0.2031,0.005738874822625584
+3.0,"Structured bath, ML alone, three inputs",X,3,3635,20000,0.18175,0.011795233833377883
+3.0,"Structured bath, ML alone, three inputs",X,5,4354,20000,0.2177,0.008675987784428019
+3.0,"Structured bath, ML alone, three inputs",X,7,3778,20000,0.1889,0.005293586349557122
+3.0,Full map without the layer 2 bonds,Z,3,3879,20000,0.19395,0.012816869191842106
+3.0,Full map without the layer 2 bonds,Z,5,4003,20000,0.20015,0.007984962190046296
+3.0,Full map without the layer 2 bonds,Z,7,3414,20000,0.1707,0.004787817264588989
+3.0,Full map without the layer 2 bonds,X,3,3026,20000,0.1513,0.009766918859630103
+3.0,Full map without the layer 2 bonds,X,5,2516,20000,0.1258,0.004814642404678771
+3.0,Full map without the layer 2 bonds,X,7,2108,20000,0.1054,0.0028517871379302173
+3.0,Vertical links only,Z,3,4067,20000,0.20335,0.013519775520828836
+3.0,Vertical links only,Z,5,4318,20000,0.2159,0.008699587205844406
+3.0,Vertical links only,Z,7,3853,20000,0.19265,0.005476302399047617
+3.0,Vertical links only,X,3,3157,20000,0.15785,0.010233649757206087
+3.0,Vertical links only,X,5,2686,20000,0.1343,0.005167602305972796
+3.0,Vertical links only,X,7,2366,20000,0.1183,0.0032255646073632294
+3.0,"Structured bath, exact (bound)",Z,3,3854,20000,0.1927,0.012643890749845066
+3.0,"Structured bath, exact (bound)",Z,5,3891,20000,0.19455,0.007686833064891818
+3.0,"Structured bath, exact (bound)",Z,7,3245,20000,0.16225,0.004499976254276894
+3.0,"Structured bath, exact (bound)",X,3,3081,20000,0.15405,0.009895343464709772
+3.0,"Structured bath, exact (bound)",X,5,2539,20000,0.12695,0.004830425641795699
+3.0,"Structured bath, exact (bound)",X,7,2145,20000,0.10725,0.002886029546784852
+4.0,"Clock, frame calibrated",Z,3,8850,20000,0.4425,0.047524662435589615
+4.0,"Clock, frame calibrated",Z,5,9741,20000,0.48705,0.0328279183481851
+4.0,"Clock, frame calibrated",Z,7,9897,20000,0.49485,0.024094265620411393
+4.0,"Clock, frame calibrated",X,3,7469,20000,0.37345,0.038211357004239166
+4.0,"Clock, frame calibrated",X,5,8815,20000,0.44075,0.028639811877255728
+4.0,"Clock, frame calibrated",X,7,9620,20000,0.481,0.023151068860677082
+4.0,"Structured bath, ML then fit, three inputs",Z,3,1932,20000,0.0966,0.003909479128020088
+4.0,"Structured bath, ML then fit, three inputs",Z,5,1055,20000,0.05275,0.0012529534084948502
+4.0,"Structured bath, ML then fit, three inputs",Z,7,704,20000,0.0352,0.0005919898867291495
+4.0,"Structured bath, ML then fit, three inputs",X,3,1684,20000,0.0842,0.003385746309248261
+4.0,"Structured bath, ML then fit, three inputs",X,5,844,20000,0.0422,0.0009969994844089003
+4.0,"Structured bath, ML then fit, three inputs",X,7,588,20000,0.0294,0.0004929990547005714
+4.0,"Structured bath, ML then fit, balanced input",Z,3,2019,20000,0.10095,0.004090991710117287
+4.0,"Structured bath, ML then fit, balanced input",Z,5,1086,20000,0.0543,0.0012895755003961007
+4.0,"Structured bath, ML then fit, balanced input",Z,7,686,20000,0.0343,0.0005760471438942538
+4.0,"Structured bath, ML then fit, balanced input",X,3,1706,20000,0.0853,0.0034286979155774278
+4.0,"Structured bath, ML then fit, balanced input",X,5,913,20000,0.04565,0.001079377018582739
+4.0,"Structured bath, ML then fit, balanced input",X,7,582,20000,0.0291,0.00048743451009247707
+4.0,"Structured bath, ML alone, three inputs",Z,3,2661,20000,0.13305,0.005560170702553102
+4.0,"Structured bath, ML alone, three inputs",Z,5,2094,20000,0.1047,0.0025880876543218356
+4.0,"Structured bath, ML alone, three inputs",Z,7,1924,20000,0.0962,0.0016914482278347354
+4.0,"Structured bath, ML alone, three inputs",X,3,2757,20000,0.13785,0.005775762844007937
+4.0,"Structured bath, ML alone, three inputs",X,5,3088,20000,0.1544,0.003921962510252119
+4.0,"Structured bath, ML alone, three inputs",X,7,2441,20000,0.12205,0.002176185100079664
+4.0,Full map without the layer 2 bonds,Z,3,2069,20000,0.10345,0.0041641018054745516
+4.0,Full map without the layer 2 bonds,Z,5,1306,20000,0.0653,0.0015470676283095841
+4.0,Full map without the layer 2 bonds,Z,7,760,20000,0.038,0.0006342405731879497
+4.0,Full map without the layer 2 bonds,X,3,1833,20000,0.09165,0.0036664094277180093
+4.0,Full map without the layer 2 bonds,X,5,997,20000,0.04985,0.001171704554888242
+4.0,Full map without the layer 2 bonds,X,7,738,20000,0.0369,0.0006155371611166194
+4.0,Vertical links only,Z,3,2320,20000,0.116,0.004670303356464234
+4.0,Vertical links only,Z,5,1621,20000,0.08105,0.001923602957012327
+4.0,Vertical links only,Z,7,1219,20000,0.06095,0.0010227352997534966
+4.0,Vertical links only,X,3,2044,20000,0.1022,0.00408476155223092
+4.0,Vertical links only,X,5,1133,20000,0.05665,0.0013276058895906884
+4.0,Vertical links only,X,7,881,20000,0.04405,0.0007327571574293756
+4.0,"Structured bath, exact (bound)",Z,3,1918,20000,0.0959,0.003879730022116168
+4.0,"Structured bath, exact (bound)",Z,5,1078,20000,0.0539,0.001281021734693577
+4.0,"Structured bath, exact (bound)",Z,7,644,20000,0.0322,0.0005407148855406385
+4.0,"Structured bath, exact (bound)",X,3,1689,20000,0.08445,0.003396237924030765
+4.0,"Structured bath, exact (bound)",X,5,886,20000,0.0443,0.0010477273849210933
+4.0,"Structured bath, exact (bound)",X,7,615,20000,0.03075,0.0005159879773828369
+6.0,"Clock, frame calibrated",Z,3,9052,20000,0.4526,0.03292228117444629
+6.0,"Clock, frame calibrated",Z,5,10029,20000,0.50145,0.022840031565754093
+6.0,"Clock, frame calibrated",Z,7,9950,20000,0.4975,0.016251253355888062
+6.0,"Clock, frame calibrated",X,3,7643,20000,0.38215,0.02639590534746361
+6.0,"Clock, frame calibrated",X,5,9337,20000,0.46685,0.020746842743805005
+6.0,"Clock, frame calibrated",X,7,9632,20000,0.4816,0.01552133379055276
+6.0,"Structured bath, ML then fit, three inputs",Z,3,1354,20000,0.0677,0.002254190191402494
+6.0,"Structured bath, ML then fit, three inputs",Z,5,340,20000,0.017,0.00033113476499846417
+6.0,"Structured bath, ML then fit, three inputs",Z,7,231,20000,0.01155,0.00016026887935927103
+6.0,"Structured bath, ML then fit, three inputs",X,3,1006,20000,0.0503,0.0016600625126030888
+6.0,"Structured bath, ML then fit, three inputs",X,5,401,20000,0.02005,0.00039113789839817503
+6.0,"Structured bath, ML then fit, three inputs",X,7,216,20000,0.0108,0.00014980587696999947
+6.0,"Structured bath, ML then fit, balanced input",Z,3,1351,20000,0.06755,0.002247164551742231
+6.0,"Structured bath, ML then fit, balanced input",Z,5,353,20000,0.01765,0.00034362258746345464
+6.0,"Structured bath, ML then fit, balanced input",Z,7,226,20000,0.0113,0.0001566506746736307
+6.0,"Structured bath, ML then fit, balanced input",X,3,1030,20000,0.0515,0.001699291755880017
+6.0,"Structured bath, ML then fit, balanced input",X,5,432,20000,0.0216,0.00042135278927379893
+6.0,"Structured bath, ML then fit, balanced input",X,7,244,20000,0.0122,0.00016920309291057478
+6.0,"Structured bath, ML alone, three inputs",Z,3,2210,20000,0.1105,0.0036940855045175525
+6.0,"Structured bath, ML alone, three inputs",Z,5,1324,20000,0.0662,0.0012980293971036616
+6.0,"Structured bath, ML alone, three inputs",Z,7,1232,20000,0.0616,0.0008608330157944266
+6.0,"Structured bath, ML alone, three inputs",X,3,2127,20000,0.10635,0.0035475021078611446
+6.0,"Structured bath, ML alone, three inputs",X,5,2663,20000,0.13315,0.0027060256001925076
+6.0,"Structured bath, ML alone, three inputs",X,7,2009,20000,0.10045,0.0014328988185725589
+6.0,Full map without the layer 2 bonds,Z,3,1418,20000,0.0709,0.0023302168046182015
+6.0,Full map without the layer 2 bonds,Z,5,415,20000,0.02075,0.0003990374108840955
+6.0,Full map without the layer 2 bonds,Z,7,283,20000,0.01415,0.0001937377086704828
+6.0,Full map without the layer 2 bonds,X,3,1079,20000,0.05395,0.0017578524851751265
+6.0,Full map without the layer 2 bonds,X,5,471,20000,0.02355,0.0004535175040764061
+6.0,Full map without the layer 2 bonds,X,7,307,20000,0.01535,0.00021029373089309633
+6.0,Vertical links only,Z,3,1526,20000,0.0763,0.0025018756003239995
+6.0,Vertical links only,Z,5,733,20000,0.03665,0.0007068363717944726
+6.0,Vertical links only,Z,7,583,20000,0.02915,0.0004000805605102187
+6.0,Vertical links only,X,3,1169,20000,0.05845,0.0018991048500780483
+6.0,Vertical links only,X,5,554,20000,0.0277,0.000531821094610363
+6.0,Vertical links only,X,7,409,20000,0.02045,0.0002794468897353575
+6.0,"Structured bath, exact (bound)",Z,3,1307,20000,0.06535,0.0021733250198461285
+6.0,"Structured bath, exact (bound)",Z,5,322,20000,0.0161,0.0003134638063450046
+6.0,"Structured bath, exact (bound)",Z,7,227,20000,0.01135,0.00015747798004672742
+6.0,"Structured bath, exact (bound)",X,3,936,20000,0.0468,0.0015418277115399892
+6.0,"Structured bath, exact (bound)",X,5,352,20000,0.0176,0.000342924220948726
+6.0,"Structured bath, exact (bound)",X,7,204,20000,0.0102,0.0001414411064227794
+12.0,"Clock, frame calibrated",Z,3,6825,20000,0.34125,0.011527794849545359
+12.0,"Clock, frame calibrated",Z,5,6937,20000,0.34685,0.007074001739696856
+12.0,"Clock, frame calibrated",Z,7,9400,20000,0.47,0.007529584248252674
+12.0,"Clock, frame calibrated",X,3,5612,20000,0.2806,0.009106552654107869
+12.0,"Clock, frame calibrated",X,5,5974,20000,0.2987,0.005896207461452252
+12.0,"Clock, frame calibrated",X,7,7551,20000,0.37755,0.005628054909294966
+12.0,"Structured bath, ML then fit, three inputs",Z,3,228,20000,0.0114,0.0001730941649940032
+12.0,"Structured bath, ML then fit, three inputs",Z,5,57,20000,0.00285,2.5854607557662668e-05
+12.0,"Structured bath, ML then fit, three inputs",Z,7,8,20000,0.0004,2.5887932375567857e-06
+12.0,"Structured bath, ML then fit, three inputs",X,3,208,20000,0.0104,0.00015783201147678838
+12.0,"Structured bath, ML then fit, three inputs",X,5,69,20000,0.00345,3.130701291953475e-05
+12.0,"Structured bath, ML then fit, three inputs",X,7,12,20000,0.0006,3.883575842356102e-06
+12.0,"Structured bath, ML then fit, balanced input",Z,3,223,20000,0.01115,0.000169239658564746
+12.0,"Structured bath, ML then fit, balanced input",Z,5,61,20000,0.00305,2.7665577104984962e-05
+12.0,"Structured bath, ML then fit, balanced input",Z,7,10,20000,0.0005,3.235434575699081e-06
+12.0,"Structured bath, ML then fit, balanced input",X,3,237,20000,0.01185,0.00017992718167558763
+12.0,"Structured bath, ML then fit, balanced input",X,5,55,20000,0.00275,2.494065634095488e-05
+12.0,"Structured bath, ML then fit, balanced input",X,7,6,20000,0.0003,1.941067820587783e-06
+12.0,"Structured bath, ML alone, three inputs",Z,3,2015,20000,0.10075,0.0015874625489128436
+12.0,"Structured bath, ML alone, three inputs",Z,5,3536,20000,0.1768,0.0017448759873041064
+12.0,"Structured bath, ML alone, three inputs",Z,7,2152,20000,0.1076,0.0007296429238917712
+12.0,"Structured bath, ML alone, three inputs",X,3,3557,20000,0.17785,0.002925473716742899
+12.0,"Structured bath, ML alone, three inputs",X,5,6699,20000,0.33495,0.0036546886910218124
+12.0,"Structured bath, ML alone, three inputs",X,7,6940,20000,0.347,0.0027287818559341703
+12.0,Full map without the layer 2 bonds,Z,3,348,20000,0.0174,0.00026519351655984735
+12.0,Full map without the layer 2 bonds,Z,5,180,20000,0.009,8.196017126871347e-05
+12.0,Full map without the layer 2 bonds,Z,7,44,20000,0.0022,1.4262188190450331e-05
+12.0,Full map without the layer 2 bonds,X,3,416,20000,0.0208,0.0003175527474827966
+12.0,Full map without the layer 2 bonds,X,5,240,20000,0.012,0.00010944421785641367
+12.0,Full map without the layer 2 bonds,X,7,66,20000,0.0033,2.1405002427088426e-05
+12.0,Vertical links only,Z,3,807,20000,0.04035,0.0006318138415609686
+12.0,Vertical links only,Z,5,1009,20000,0.05045,0.00047650940405430386
+12.0,Vertical links only,Z,7,683,20000,0.03415,0.00022848493647131818
+12.0,Vertical links only,X,3,673,20000,0.03365,0.0005251127332818184
+12.0,Vertical links only,X,5,466,20000,0.0233,0.00021703978241061073
+12.0,Vertical links only,X,7,208,20000,0.0104,6.875111767512543e-05
+12.0,"Structured bath, exact (bound)",Z,3,226,20000,0.0113,0.00017156726557743252
+12.0,"Structured bath, exact (bound)",Z,5,46,20000,0.0023,2.085942453033951e-05
+12.0,"Structured bath, exact (bound)",Z,7,9,20000,0.00045,2.912464757365285e-06
+12.0,"Structured bath, exact (bound)",X,3,227,20000,0.01135,0.0001723306962718718
+12.0,"Structured bath, exact (bound)",X,5,68,20000,0.0034,3.0852521575086556e-05
+12.0,"Structured bath, exact (bound)",X,7,9,20000,0.00045,2.912464757365285e-06
+25.0,"Clock, frame calibrated",Z,3,5196,20000,0.2598,0.004003097611153916
+25.0,"Clock, frame calibrated",Z,5,6221,20000,0.31105,0.002976254782429466
+25.0,"Clock, frame calibrated",Z,7,6525,20000,0.32625,0.0022540053734292353
+25.0,"Clock, frame calibrated",X,3,5086,20000,0.2543,0.003904781827747561
+25.0,"Clock, frame calibrated",X,5,5643,20000,0.28215,0.0026484438312911474
+25.0,"Clock, frame calibrated",X,7,5456,20000,0.2728,0.0018186513094462509
+25.0,"Structured bath, ML then fit, three inputs",Z,3,134,20000,0.0067,5.174914088224014e-05
+25.0,"Structured bath, ML then fit, three inputs",Z,5,11,20000,0.00055,2.5410514640222814e-06
+25.0,"Structured bath, ML then fit, three inputs",Z,7,0,20000,0.0,0.0
+25.0,"Structured bath, ML then fit, three inputs",X,3,161,20000,0.00805,6.221812383166991e-05
+25.0,"Structured bath, ML then fit, three inputs",X,5,14,20000,0.0007,3.234307068944453e-06
+25.0,"Structured bath, ML then fit, three inputs",X,7,4,20000,0.0002,6.598984596539736e-07
+25.0,"Structured bath, ML then fit, balanced input",Z,3,155,20000,0.00775,5.988340619922372e-05
+25.0,"Structured bath, ML then fit, balanced input",Z,5,28,20000,0.0014,6.470107708378414e-06
+25.0,"Structured bath, ML then fit, balanced input",Z,7,5,20000,0.00025,8.247964489171977e-07
+25.0,"Structured bath, ML then fit, balanced input",X,3,152,20000,0.0076,5.871997416495578e-05
+25.0,"Structured bath, ML then fit, balanced input",X,5,23,20000,0.00115,5.314069396966659e-06
+25.0,"Structured bath, ML then fit, balanced input",X,7,0,20000,0.0,0.0
+25.0,"Structured bath, ML alone, three inputs",Z,3,4984,20000,0.2492,0.0022492195905556844
+25.0,"Structured bath, ML alone, three inputs",Z,5,7966,20000,0.3983,0.0023917305819263213
+25.0,"Structured bath, ML alone, three inputs",Z,7,8777,20000,0.43885,0.0019434525793888824
+25.0,"Structured bath, ML alone, three inputs",X,3,6897,20000,0.34485,0.003316863482992982
+25.0,"Structured bath, ML alone, three inputs",X,5,9400,20000,0.47,0.002988218553873656
+25.0,"Structured bath, ML alone, three inputs",X,7,9933,20000,0.49665,0.002308676103209728
+25.0,Full map without the layer 2 bonds,Z,3,526,20000,0.0263,0.00020997144364409692
+25.0,Full map without the layer 2 bonds,Z,5,216,20000,0.0108,5.1332828436723155e-05
+25.0,Full map without the layer 2 bonds,Z,7,41,20000,0.00205,6.9294158770993874e-06
+25.0,Full map without the layer 2 bonds,X,3,680,20000,0.034,0.00027251163084585084
+25.0,Full map without the layer 2 bonds,X,5,268,20000,0.0134,6.37740318533142e-05
+25.0,Full map without the layer 2 bonds,X,7,86,20000,0.0043,1.4551221248493285e-05
+25.0,Vertical links only,Z,3,2241,20000,0.11205,0.0009508100229486116
+25.0,Vertical links only,Z,5,4256,20000,0.2128,0.001148506707034369
+25.0,Vertical links only,Z,7,3102,20000,0.1551,0.0005780044238883342
+25.0,Vertical links only,X,3,1439,20000,0.07195,0.000597520302519583
+25.0,Vertical links only,X,5,1171,20000,0.05855,0.00028972699068585683
+25.0,Vertical links only,X,7,574,20000,0.0287,9.989174658964206e-05
+25.0,"Structured bath, exact (bound)",Z,3,151,20000,0.00755,5.8339075187152645e-05
+25.0,"Structured bath, exact (bound)",Z,5,15,20000,0.00075,3.465415288617102e-06
+25.0,"Structured bath, exact (bound)",Z,7,4,20000,0.0002,6.598984596539736e-07
+25.0,"Structured bath, exact (bound)",X,3,168,20000,0.0084,6.493461248224808e-05
+25.0,"Structured bath, exact (bound)",X,5,21,20000,0.00105,4.852306377478577e-06
+25.0,"Structured bath, exact (bound)",X,7,5,20000,0.00025,8.248936324006806e-07
+50.0,"Clock, frame calibrated",Z,3,6394,20000,0.3197,0.0025648478202927594
+50.0,"Clock, frame calibrated",Z,5,7897,20000,0.39485,0.002007098749269298
+50.0,"Clock, frame calibrated",Z,7,7964,20000,0.3982,0.0014498910759519479
+50.0,"Clock, frame calibrated",X,3,4885,20000,0.24425,0.0018652226083597512
+50.0,"Clock, frame calibrated",X,5,6676,20000,0.3338,0.0016233423649690826
+50.0,"Clock, frame calibrated",X,7,6103,20000,0.30515,0.0010396285943462535
+50.0,"Structured bath, ML then fit, three inputs",Z,3,147,20000,0.00735,3.0149265891510346e-05
+50.0,"Structured bath, ML then fit, three inputs",Z,5,19,20000,0.00095,2.3306428621472364e-06
+50.0,"Structured bath, ML then fit, three inputs",Z,7,1,20000,5e-05,8.757881519994015e-08
+50.0,"Structured bath, ML then fit, three inputs",X,3,132,20000,0.0066,2.7062642193764752e-05
+50.0,"Structured bath, ML then fit, three inputs",X,5,24,20000,0.0012,2.944337376908912e-06
+50.0,"Structured bath, ML then fit, three inputs",X,7,4,20000,0.0002,3.5034149215018573e-07
+50.0,"Structured bath, ML then fit, balanced input",Z,3,150,20000,0.0075,3.076302064719538e-05
+50.0,"Structured bath, ML then fit, balanced input",Z,5,14,20000,0.0007,1.7168867225691997e-06
+50.0,"Structured bath, ML then fit, balanced input",Z,7,3,20000,0.00015,2.627166925117663e-07
+50.0,"Structured bath, ML then fit, balanced input",X,3,153,20000,0.00765,3.13806397873595e-05
+50.0,"Structured bath, ML then fit, balanced input",X,5,28,20000,0.0014,3.4349735783534285e-06
+50.0,"Structured bath, ML then fit, balanced input",X,7,3,20000,0.00015,2.627166925117663e-07
+50.0,"Structured bath, ML alone, three inputs",Z,3,8252,20000,0.4126,0.002097371708914997
+50.0,"Structured bath, ML alone, three inputs",Z,5,9816,20000,0.4908,0.0015967333433788422
+50.0,"Structured bath, ML alone, three inputs",Z,7,10044,20000,0.5022,0.001171584302332218
+50.0,"Structured bath, ML alone, three inputs",X,3,9586,20000,0.4793,0.002571904795213187
+50.0,"Structured bath, ML alone, three inputs",X,5,10051,20000,0.50255,0.0016398336024300297
+50.0,"Structured bath, ML alone, three inputs",X,7,9883,20000,0.49415,0.0011519346299916355
+50.0,Full map without the layer 2 bonds,Z,3,959,20000,0.04795,0.00019780711205119594
+50.0,Full map without the layer 2 bonds,Z,5,465,20000,0.02325,5.682375925764038e-05
+50.0,Full map without the layer 2 bonds,Z,7,174,20000,0.0087,1.5076657754242717e-05
+50.0,Full map without the layer 2 bonds,X,3,1564,20000,0.0782,0.0003277683851010682
+50.0,Full map without the layer 2 bonds,X,5,1649,20000,0.08245,0.00020783455058492883
+50.0,Full map without the layer 2 bonds,X,7,838,20000,0.0419,7.385033092288662e-05
+50.0,Vertical links only,Z,3,4307,20000,0.21535,0.000954376039986049
+50.0,Vertical links only,Z,5,7245,20000,0.36225,0.0010620191063971385
+50.0,Vertical links only,Z,7,8486,20000,0.4243,0.0009312715597136201
+50.0,Vertical links only,X,3,3419,20000,0.17095,0.0007378471208792092
+50.0,Vertical links only,X,5,5532,20000,0.2766,0.00076460352879959
+50.0,Vertical links only,X,7,4290,20000,0.2145,0.00040730373510189377
+50.0,"Structured bath, exact (bound)",Z,3,137,20000,0.00685,2.8091258814533226e-05
+50.0,"Structured bath, exact (bound)",Z,5,29,20000,0.00145,3.558185142082948e-06
+50.0,"Structured bath, exact (bound)",Z,7,6,20000,0.0003,5.255384739610847e-07
+50.0,"Structured bath, exact (bound)",X,3,144,20000,0.0072,2.9531755387890435e-05
+50.0,"Structured bath, exact (bound)",X,5,29,20000,0.00145,3.558185142082948e-06
+50.0,"Structured bath, exact (bound)",X,7,2,20000,0.0001,1.7516200201406207e-07

@@ -1,0 +1,337 @@
+T_clock,Arm,Memory_basis,Distance,Logical_errors,Shots,LER,LER_per_unit_time
+1.0,"Clock, frame calibrated, uniform decoder",Z,3,1533,20000,0.07665,0.026232106432388824
+1.0,"Clock, frame calibrated, uniform decoder",Z,5,710,20000,0.0355,0.007203022312434859
+1.0,"Clock, frame calibrated, uniform decoder",Z,7,777,20000,0.03885,0.005644693480367335
+1.0,"Clock, frame calibrated, uniform decoder",X,3,757,20000,0.03785,0.012779281028715395
+1.0,"Clock, frame calibrated, uniform decoder",X,5,415,20000,0.02075,0.004184880169043614
+1.0,"Clock, frame calibrated, uniform decoder",X,7,175,20000,0.00875,0.001254713050395262
+1.0,"Clock, frame calibrated",Z,3,1259,20000,0.06295,0.0214397094752673
+1.0,"Clock, frame calibrated",Z,5,534,20000,0.0267,0.005397962269825918
+1.0,"Clock, frame calibrated",Z,7,533,20000,0.02665,0.0038513571759951626
+1.0,"Clock, frame calibrated",X,3,713,20000,0.03565,0.012027412016800909
+1.0,"Clock, frame calibrated",X,5,396,20000,0.0198,0.003991741037941976
+1.0,"Clock, frame calibrated",X,7,169,20000,0.00845,0.0012115374452387195
+1.0,"Structured bath, ML inferred",Z,3,1307,20000,0.06535,0.022275862867666252
+1.0,"Structured bath, ML inferred",Z,5,528,20000,0.0264,0.005336656643562643
+1.0,"Structured bath, ML inferred",Z,7,549,20000,0.02745,0.003968361009213051
+1.0,"Structured bath, ML inferred",X,3,707,20000,0.03535,0.011924973052099386
+1.0,"Structured bath, ML inferred",X,5,385,20000,0.01925,0.003879992082143402
+1.0,"Structured bath, ML inferred",X,7,152,20000,0.0076,0.0010892673406702746
+1.0,"Structured bath, ML then fit",Z,3,1235,20000,0.06175,0.021022168098437266
+1.0,"Structured bath, ML then fit",Z,5,576,20000,0.0288,0.00582752545157339
+1.0,"Structured bath, ML then fit",Z,7,524,20000,0.0262,0.0037855787383169748
+1.0,"Structured bath, ML then fit",X,3,758,20000,0.0379,0.012796382274543605
+1.0,"Structured bath, ML then fit",X,5,358,20000,0.0179,0.003605911593342892
+1.0,"Structured bath, ML then fit",X,7,150,20000,0.0075,0.0010748885245673856
+1.0,"Structured bath, ML then fit, balanced check",Z,3,1334,20000,0.0667,0.022746828324511248
+1.0,"Structured bath, ML then fit, balanced check",Z,5,587,20000,0.02935,0.005940152874391091
+1.0,"Structured bath, ML then fit, balanced check",Z,7,561,20000,0.02805,0.004056168034135443
+1.0,"Structured bath, ML then fit, balanced check",X,3,722,20000,0.0361,0.012181110306148324
+1.0,"Structured bath, ML then fit, balanced check",X,5,381,20000,0.01905,0.0038393685281643553
+1.0,"Structured bath, ML then fit, balanced check",X,7,146,20000,0.0073,0.001046134617318284
+1.0,"Structured bath, exact (bound)",Z,3,1338,20000,0.0669,0.02281663960250535
+1.0,"Structured bath, exact (bound)",Z,5,522,20000,0.0261,0.00527536612775259
+1.0,"Structured bath, exact (bound)",Z,7,566,20000,0.0283,0.004092768007578629
+1.0,"Structured bath, exact (bound)",X,3,714,20000,0.0357,0.01204448724300522
+1.0,"Structured bath, exact (bound)",X,5,403,20000,0.02015,0.004062880130281887
+1.0,"Structured bath, exact (bound)",X,7,158,20000,0.0079,0.001132411241681508
+1.0,"Structured bath, exact, balanced check (bound)",Z,3,1274,20000,0.0637,0.021700853886291838
+1.0,"Structured bath, exact, balanced check (bound)",Z,5,504,20000,0.0252,0.00509158515930519
+1.0,"Structured bath, exact, balanced check (bound)",Z,7,555,20000,0.02775,0.004012258715824557
+1.0,"Structured bath, exact, balanced check (bound)",X,3,734,20000,0.0367,0.012386115788779906
+1.0,"Structured bath, exact, balanced check (bound)",X,5,348,20000,0.0174,0.00350447678635335
+1.0,"Structured bath, exact, balanced check (bound)",X,7,153,20000,0.00765,0.0010964572144430695
+2.0,"Clock, frame calibrated, uniform decoder",Z,3,5327,20000,0.26635,0.05031082666537656
+2.0,"Clock, frame calibrated, uniform decoder",Z,5,5599,20000,0.27995,0.03230997248287315
+2.0,"Clock, frame calibrated, uniform decoder",Z,7,7946,20000,0.3973,0.03552063081905943
+2.0,"Clock, frame calibrated, uniform decoder",X,3,3503,20000,0.17515,0.031582795228689675
+2.0,"Clock, frame calibrated, uniform decoder",X,5,3546,20000,0.1773,0.01932715510589056
+2.0,"Clock, frame calibrated, uniform decoder",X,7,3842,20000,0.1921,0.01512143324540749
+2.0,"Clock, frame calibrated",Z,3,4855,20000,0.24275,0.04528617030751081
+2.0,"Clock, frame calibrated",Z,5,4516,20000,0.2258,0.025267791914698634
+2.0,"Clock, frame calibrated",Z,7,6916,20000,0.3458,0.029855407889984864
+2.0,"Clock, frame calibrated",X,3,3252,20000,0.1626,0.029142493706192374
+2.0,"Clock, frame calibrated",X,5,3175,20000,0.15875,0.01713808309165432
+2.0,"Clock, frame calibrated",X,7,3279,20000,0.16395,0.012709039251978194
+2.0,"Structured bath, ML inferred",Z,3,4445,20000,0.22225,0.03704142833944035
+2.0,"Structured bath, ML inferred",Z,5,4164,20000,0.2082,0.020814122037304705
+2.0,"Structured bath, ML inferred",Z,7,6067,20000,0.30335,0.02299509583861714
+2.0,"Structured bath, ML inferred",X,3,3167,20000,0.15835,0.02555549796703993
+2.0,"Structured bath, ML inferred",X,5,2754,20000,0.1377,0.013259968542673417
+2.0,"Structured bath, ML inferred",X,7,2770,20000,0.1385,0.009548617611462196
+2.0,"Structured bath, ML then fit",Z,3,4372,20000,0.2186,0.03655106094609728
+2.0,"Structured bath, ML then fit",Z,5,4263,20000,0.21315,0.02147794172039852
+2.0,"Structured bath, ML then fit",Z,7,5984,20000,0.2992,0.022738682939420274
+2.0,"Structured bath, ML then fit",X,3,3235,20000,0.16175,0.026282771196146082
+2.0,"Structured bath, ML then fit",X,5,2937,20000,0.14685,0.014281829710791505
+2.0,"Structured bath, ML then fit",X,7,2735,20000,0.13675,0.009468352280792569
+2.0,"Structured bath, ML then fit, balanced check",Z,3,4007,20000,0.20035,0.030596239056031482
+2.0,"Structured bath, ML then fit, balanced check",Z,5,3691,20000,0.18455,0.016868936488308006
+2.0,"Structured bath, ML then fit, balanced check",Z,7,5065,20000,0.25325,0.017243855853116163
+2.0,"Structured bath, ML then fit, balanced check",X,3,2975,20000,0.14875,0.022134556629789803
+2.0,"Structured bath, ML then fit, balanced check",X,5,2819,20000,0.14095,0.012589380161755037
+2.0,"Structured bath, ML then fit, balanced check",X,7,2344,20000,0.1172,0.0073975892088145034
+2.0,"Structured bath, exact (bound)",Z,3,4323,20000,0.21615,0.03609566243168649
+2.0,"Structured bath, exact (bound)",Z,5,4134,20000,0.2067,0.0207541329929265
+2.0,"Structured bath, exact (bound)",Z,7,6060,20000,0.303,0.023082379141650122
+2.0,"Structured bath, exact (bound)",X,3,3141,20000,0.15705,0.025460579068799727
+2.0,"Structured bath, exact (bound)",X,5,2822,20000,0.1411,0.01368194647794252
+2.0,"Structured bath, exact (bound)",X,7,2799,20000,0.13995,0.009706313698937818
+2.0,"Structured bath, exact, balanced check (bound)",Z,3,3954,20000,0.1977,0.030150382758916905
+2.0,"Structured bath, exact, balanced check (bound)",Z,5,3708,20000,0.1854,0.0169544342728426
+2.0,"Structured bath, exact, balanced check (bound)",Z,7,4898,20000,0.2449,0.016592722045094543
+2.0,"Structured bath, exact, balanced check (bound)",X,3,2806,20000,0.1403,0.020791194197683938
+2.0,"Structured bath, exact, balanced check (bound)",X,5,2834,20000,0.1417,0.012661296694831514
+2.0,"Structured bath, exact, balanced check (bound)",X,7,2381,20000,0.11905,0.007521611373217163
+3.0,"Clock, frame calibrated, uniform decoder",Z,3,7551,20000,0.37755,0.05131350326799822
+3.0,"Clock, frame calibrated, uniform decoder",Z,5,8341,20000,0.41705,0.03533744619508428
+3.0,"Clock, frame calibrated, uniform decoder",Z,7,9578,20000,0.4789,0.030561973388778974
+3.0,"Clock, frame calibrated, uniform decoder",X,3,5703,20000,0.28515,0.036611056068334036
+3.0,"Clock, frame calibrated, uniform decoder",X,5,6154,20000,0.3077,0.02421765643983631
+3.0,"Clock, frame calibrated, uniform decoder",X,7,6981,20000,0.34905,0.020236365736250872
+3.0,"Clock, frame calibrated",Z,3,7038,20000,0.3519,0.047047320103370094
+3.0,"Clock, frame calibrated",Z,5,7455,20000,0.37275,0.03061555940255678
+3.0,"Clock, frame calibrated",Z,7,9069,20000,0.45345,0.028358209442756688
+3.0,"Clock, frame calibrated",X,3,5465,20000,0.27325,0.03484217107561771
+3.0,"Clock, frame calibrated",X,5,6012,20000,0.3006,0.023553675061378065
+3.0,"Clock, frame calibrated",X,7,6330,20000,0.3165,0.017957223131353395
+3.0,"Structured bath, ML inferred",Z,3,6216,20000,0.3108,0.03833093251549957
+3.0,"Structured bath, ML inferred",Z,5,7058,20000,0.3529,0.027049438904807377
+3.0,"Structured bath, ML inferred",Z,7,8604,20000,0.4302,0.024994383573088808
+3.0,"Structured bath, ML inferred",X,3,4867,20000,0.24335,0.028856238493948694
+3.0,"Structured bath, ML inferred",X,5,5103,20000,0.25515,0.01838757275250036
+3.0,"Structured bath, ML inferred",X,7,5280,20000,0.264,0.01369942186679407
+3.0,"Structured bath, ML then fit",Z,3,6261,20000,0.31305,0.038563850621006535
+3.0,"Structured bath, ML then fit",Z,5,7033,20000,0.35165,0.026862996625656832
+3.0,"Structured bath, ML then fit",Z,7,8484,20000,0.4242,0.02447251428393027
+3.0,"Structured bath, ML then fit",X,3,4874,20000,0.2437,0.028830361784295544
+3.0,"Structured bath, ML then fit",X,5,5086,20000,0.2543,0.018270486229899685
+3.0,"Structured bath, ML then fit",X,7,5100,20000,0.255,0.01312628182448694
+3.0,"Structured bath, ML then fit, balanced check",Z,3,2800,20000,0.14,0.010387520120898053
+3.0,"Structured bath, ML then fit, balanced check",Z,5,2820,20000,0.141,0.006293550149609306
+3.0,"Structured bath, ML then fit, balanced check",Z,7,2920,20000,0.146,0.004671862997905896
+3.0,"Structured bath, ML then fit, balanced check",X,3,2615,20000,0.13075,0.009654266592977634
+3.0,"Structured bath, ML then fit, balanced check",X,5,1996,20000,0.0998,0.004357870487741611
+3.0,"Structured bath, ML then fit, balanced check",X,7,1694,20000,0.0847,0.0026225460738992235
+3.0,"Structured bath, exact (bound)",Z,3,6254,20000,0.3127,0.03851255813108467
+3.0,"Structured bath, exact (bound)",Z,5,6880,20000,0.344,0.026145405553865686
+3.0,"Structured bath, exact (bound)",Z,7,8561,20000,0.42805,0.02476623314488191
+3.0,"Structured bath, exact (bound)",X,3,4726,20000,0.2363,0.027839466948713976
+3.0,"Structured bath, exact (bound)",X,5,5061,20000,0.25305,0.018167153590195162
+3.0,"Structured bath, exact (bound)",X,7,5162,20000,0.2581,0.013310972155590073
+3.0,"Structured bath, exact, balanced check (bound)",Z,3,2899,20000,0.14495,0.01078293050096879
+3.0,"Structured bath, exact, balanced check (bound)",Z,5,2839,20000,0.14195,0.006339225316933539
+3.0,"Structured bath, exact, balanced check (bound)",Z,7,2871,20000,0.14355,0.00458725644265634
+3.0,"Structured bath, exact, balanced check (bound)",X,3,2744,20000,0.1372,0.010164790671361335
+3.0,"Structured bath, exact, balanced check (bound)",X,5,1981,20000,0.09905,0.004323426494531213
+3.0,"Structured bath, exact, balanced check (bound)",X,7,1678,20000,0.0839,0.002596691626700509
+4.0,"Clock, frame calibrated, uniform decoder",Z,3,9000,20000,0.45,0.04859910100174769
+4.0,"Clock, frame calibrated, uniform decoder",Z,5,9778,20000,0.4889,0.0330026274626416
+4.0,"Clock, frame calibrated, uniform decoder",Z,7,10000,20000,0.5,0.02445135794742681
+4.0,"Clock, frame calibrated, uniform decoder",X,3,6818,20000,0.3409,0.03414349457312282
+4.0,"Clock, frame calibrated, uniform decoder",X,5,8336,20000,0.4168,0.026601044780420025
+4.0,"Clock, frame calibrated, uniform decoder",X,7,8989,20000,0.44945,0.021090052661660197
+4.0,"Clock, frame calibrated",Z,3,8822,20000,0.4411,0.04732556928916487
+4.0,"Clock, frame calibrated",Z,5,9557,20000,0.47785,0.03196788809753681
+4.0,"Clock, frame calibrated",Z,7,9927,20000,0.49635,0.02419790940837163
+4.0,"Clock, frame calibrated",X,3,6878,20000,0.3439,0.03451061539437028
+4.0,"Clock, frame calibrated",X,5,8022,20000,0.4011,0.025307294965344895
+4.0,"Clock, frame calibrated",X,7,8752,20000,0.4376,0.02034525384510477
+4.0,"Structured bath, ML inferred",Z,3,6300,20000,0.315,0.02694502520822928
+4.0,"Structured bath, ML inferred",Z,5,8175,20000,0.40875,0.022507220268592865
+4.0,"Structured bath, ML inferred",Z,7,9279,20000,0.46395,0.01910797354434246
+4.0,"Structured bath, ML inferred",X,3,5281,20000,0.26405,0.021891872178110172
+4.0,"Structured bath, ML inferred",X,5,5846,20000,0.2923,0.014864995001133807
+4.0,"Structured bath, ML inferred",X,7,6526,20000,0.3263,0.012146605159487511
+4.0,"Structured bath, ML then fit",Z,3,6309,20000,0.31545,0.02651338095840461
+4.0,"Structured bath, ML then fit",Z,5,8037,20000,0.40185,0.021625091418488895
+4.0,"Structured bath, ML then fit",Z,7,9391,20000,0.46955,0.019081438496633907
+4.0,"Structured bath, ML then fit",X,3,5297,20000,0.26485,0.021578786122123828
+4.0,"Structured bath, ML then fit",X,5,5758,20000,0.2879,0.014340381659124213
+4.0,"Structured bath, ML then fit",X,7,6398,20000,0.3199,0.011646056771902669
+4.0,"Structured bath, ML then fit, balanced check",Z,3,2605,20000,0.13025,0.006236122231490393
+4.0,"Structured bath, ML then fit, balanced check",Z,5,1688,20000,0.0844,0.002368805297499277
+4.0,"Structured bath, ML then fit, balanced check",Z,7,1134,20000,0.0567,0.001120779935144589
+4.0,"Structured bath, ML then fit, balanced check",X,3,2305,20000,0.11525,0.0054740918962632445
+4.0,"Structured bath, ML then fit, balanced check",X,5,1436,20000,0.0718,0.0020019973626754783
+4.0,"Structured bath, ML then fit, balanced check",X,7,982,20000,0.0491,0.0009667752659208162
+4.0,"Structured bath, exact (bound)",Z,3,6454,20000,0.3227,0.027248003221901462
+4.0,"Structured bath, exact (bound)",Z,5,8164,20000,0.4082,0.02206920319132799
+4.0,"Structured bath, exact (bound)",Z,7,9299,20000,0.46495,0.01882404035907126
+4.0,"Structured bath, exact (bound)",X,3,5313,20000,0.26565,0.02165431529337447
+4.0,"Structured bath, exact (bound)",X,5,5598,20000,0.2799,0.013871830047093026
+4.0,"Structured bath, exact (bound)",X,7,6340,20000,0.317,0.011518259992809532
+4.0,"Structured bath, exact, balanced check (bound)",Z,3,2647,20000,0.13235,0.006343806804909646
+4.0,"Structured bath, exact, balanced check (bound)",Z,5,1650,20000,0.0825,0.002313179646724506
+4.0,"Structured bath, exact, balanced check (bound)",Z,7,1088,20000,0.0544,0.0010740452238341414
+4.0,"Structured bath, exact, balanced check (bound)",X,3,2298,20000,0.1149,0.0054564589181406165
+4.0,"Structured bath, exact, balanced check (bound)",X,5,1490,20000,0.0745,0.002080189423155021
+4.0,"Structured bath, exact, balanced check (bound)",X,7,982,20000,0.0491,0.0009667752659208162
+6.0,"Clock, frame calibrated, uniform decoder",Z,3,8935,20000,0.44675,0.03235098958327021
+6.0,"Clock, frame calibrated, uniform decoder",Z,5,9895,20000,0.49475,0.02249974940220023
+6.0,"Clock, frame calibrated, uniform decoder",Z,7,10035,20000,0.50175,0.016368067555809995
+6.0,"Clock, frame calibrated, uniform decoder",X,3,7488,20000,0.3744,0.025721425045565294
+6.0,"Clock, frame calibrated, uniform decoder",X,5,8922,20000,0.4461,0.019499742245178142
+6.0,"Clock, frame calibrated, uniform decoder",X,7,9686,20000,0.4843,0.01564372838269823
+6.0,"Clock, frame calibrated",Z,3,8694,20000,0.4347,0.031191988740206233
+6.0,"Clock, frame calibrated",Z,5,9859,20000,0.49295,0.022383867641386557
+6.0,"Clock, frame calibrated",Z,7,9938,20000,0.4969,0.016223302371719095
+6.0,"Clock, frame calibrated",X,3,7310,20000,0.3655,0.02495652747018684
+6.0,"Clock, frame calibrated",X,5,8863,20000,0.44315,0.019326121499744997
+6.0,"Clock, frame calibrated",X,7,9560,20000,0.478,0.015359105465035716
+6.0,"Structured bath, ML inferred",Z,3,5129,20000,0.25645,0.012604676416715144
+6.0,"Structured bath, ML inferred",Z,5,5523,20000,0.27615,0.008266200319172912
+6.0,"Structured bath, ML inferred",Z,7,5016,20000,0.2508,0.0052834513675154016
+6.0,"Structured bath, ML inferred",X,3,4039,20000,0.20195,0.00961028925941676
+6.0,"Structured bath, ML inferred",X,5,3886,20000,0.1943,0.005533654706567082
+6.0,"Structured bath, ML inferred",X,7,3744,20000,0.1872,0.0037954037759911907
+6.0,"Structured bath, ML then fit",Z,3,4912,20000,0.2456,0.012029764685423938
+6.0,"Structured bath, ML then fit",Z,5,5101,20000,0.25505,0.0075577138889938444
+6.0,"Structured bath, ML then fit",Z,7,4564,20000,0.2282,0.004755866160520594
+6.0,"Structured bath, ML then fit",X,3,3682,20000,0.1841,0.00869925321450915
+6.0,"Structured bath, ML then fit",X,5,3489,20000,0.17445,0.004927254191896324
+6.0,"Structured bath, ML then fit",X,7,3098,20000,0.1549,0.003092624040968217
+6.0,"Structured bath, ML then fit, balanced check",Z,3,1323,20000,0.06615,0.002103191452417996
+6.0,"Structured bath, ML then fit, balanced check",Z,5,546,20000,0.0273,0.0005107742778632796
+6.0,"Structured bath, ML then fit, balanced check",Z,7,276,20000,0.0138,0.00018319174726233456
+6.0,"Structured bath, ML then fit, balanced check",X,3,1275,20000,0.06375,0.0020243946117235456
+6.0,"Structured bath, ML then fit, balanced check",X,5,620,20000,0.031,0.0005810804716390727
+6.0,"Structured bath, ML then fit, balanced check",X,7,287,20000,0.01435,0.0001905451821738735
+6.0,"Structured bath, exact (bound)",Z,3,5006,20000,0.2503,0.012294876782769082
+6.0,"Structured bath, exact (bound)",Z,5,5137,20000,0.25685,0.00761957318543649
+6.0,"Structured bath, exact (bound)",Z,7,4623,20000,0.23115,0.0048260080556429275
+6.0,"Structured bath, exact (bound)",X,3,3639,20000,0.18195,0.00858721883275737
+6.0,"Structured bath, exact (bound)",X,5,3590,20000,0.1795,0.005084559316125947
+6.0,"Structured bath, exact (bound)",X,7,3108,20000,0.1554,0.003103482231852084
+6.0,"Structured bath, exact, balanced check (bound)",Z,3,1308,20000,0.0654,0.0020785463754875444
+6.0,"Structured bath, exact, balanced check (bound)",Z,5,577,20000,0.02885,0.0005401948688311675
+6.0,"Structured bath, exact, balanced check (bound)",Z,7,274,20000,0.0137,0.00018185519390079286
+6.0,"Structured bath, exact, balanced check (bound)",X,3,1247,20000,0.06235,0.001978520149328089
+6.0,"Structured bath, exact, balanced check (bound)",X,5,633,20000,0.03165,0.0005934587655060941
+6.0,"Structured bath, exact, balanced check (bound)",X,7,279,20000,0.01395,0.0001851968280857097
+12.0,"Clock, frame calibrated, uniform decoder",Z,3,7131,20000,0.35655,0.012172830832740567
+12.0,"Clock, frame calibrated, uniform decoder",Z,5,8281,20000,0.41405,0.00886911557269332
+12.0,"Clock, frame calibrated, uniform decoder",Z,7,9108,20000,0.4554,0.007208461350572626
+12.0,"Clock, frame calibrated, uniform decoder",X,3,6471,20000,0.32355,0.01079950495685833
+12.0,"Clock, frame calibrated, uniform decoder",X,5,8587,20000,0.42935,0.009306081505453978
+12.0,"Clock, frame calibrated, uniform decoder",X,7,9052,20000,0.4526,0.007147849383530969
+12.0,"Clock, frame calibrated",Z,3,6619,20000,0.33095,0.011101707329108312
+12.0,"Clock, frame calibrated",Z,5,7720,20000,0.386,0.008096385460610311
+12.0,"Clock, frame calibrated",Z,7,8407,20000,0.42035,0.006471005683137077
+12.0,"Clock, frame calibrated",X,3,6160,20000,0.308,0.010174808462406815
+12.0,"Clock, frame calibrated",X,5,7892,20000,0.3946,0.008329546847973712
+12.0,"Clock, frame calibrated",X,7,8377,20000,0.41885,0.006440437330294535
+12.0,"Structured bath, ML inferred",Z,3,2283,20000,0.11415,0.0026520436142631887
+12.0,"Structured bath, ML inferred",Z,5,1516,20000,0.0758,0.0010356838981746552
+12.0,"Structured bath, ML inferred",Z,7,1321,20000,0.06605,0.0006414127549744242
+12.0,"Structured bath, ML inferred",X,3,2174,20000,0.1087,0.002518012127995406
+12.0,"Structured bath, ML inferred",X,5,1630,20000,0.0815,0.0011169224820032353
+12.0,"Structured bath, ML inferred",X,7,1229,20000,0.06145,0.0005953076905440557
+12.0,"Structured bath, ML then fit",Z,3,1911,20000,0.09555,0.0022154008902415256
+12.0,"Structured bath, ML then fit",Z,5,1122,20000,0.0561,0.0007647202921723384
+12.0,"Structured bath, ML then fit",Z,7,787,20000,0.03935,0.00037988453479986806
+12.0,"Structured bath, ML then fit",X,3,1899,20000,0.09495,0.002200787850216157
+12.0,"Structured bath, ML then fit",X,5,1277,20000,0.06385,0.0008738738684503922
+12.0,"Structured bath, ML then fit",X,7,782,20000,0.0391,0.00037742272227780926
+12.0,"Structured bath, ML then fit, balanced check",Z,3,899,20000,0.04495,0.0007031985978381838
+12.0,"Structured bath, ML then fit, balanced check",Z,5,262,20000,0.0131,0.00012100656139901744
+12.0,"Structured bath, ML then fit, balanced check",Z,7,130,20000,0.0065,4.2745948309108606e-05
+12.0,"Structured bath, ML then fit, balanced check",X,3,860,20000,0.043,0.0006720226865520873
+12.0,"Structured bath, ML then fit, balanced check",X,5,303,20000,0.01515,0.000140086592892108
+12.0,"Structured bath, ML then fit, balanced check",X,7,124,20000,0.0062,4.076695068244707e-05
+12.0,"Structured bath, exact (bound)",Z,3,1894,20000,0.0947,0.00219470187941051
+12.0,"Structured bath, exact (bound)",Z,5,1119,20000,0.05595,0.0007626163773328809
+12.0,"Structured bath, exact (bound)",Z,7,801,20000,0.04005,0.000386780987417068
+12.0,"Structured bath, exact (bound)",X,3,1881,20000,0.09405,0.0021788860437809143
+12.0,"Structured bath, exact (bound)",X,5,1209,20000,0.06045,0.0008258777706333653
+12.0,"Structured bath, exact (bound)",X,7,787,20000,0.03935,0.00037988453479986806
+12.0,"Structured bath, exact, balanced check (bound)",Z,3,888,20000,0.0444,0.0006943990503286424
+12.0,"Structured bath, exact, balanced check (bound)",Z,5,263,20000,0.01315,0.00012147146062524428
+12.0,"Structured bath, exact, balanced check (bound)",Z,7,121,20000,0.00605,3.9777674415764075e-05
+12.0,"Structured bath, exact, balanced check (bound)",X,3,841,20000,0.04205,0.0006568570755651759
+12.0,"Structured bath, exact, balanced check (bound)",X,5,294,20000,0.0147,0.0001358949245355845
+12.0,"Structured bath, exact, balanced check (bound)",X,7,125,20000,0.00625,4.109674240238004e-05
+25.0,"Clock, frame calibrated, uniform decoder",Z,3,7560,20000,0.378,0.006310871421065678
+25.0,"Clock, frame calibrated, uniform decoder",Z,5,8928,20000,0.4464,0.004719331790210002
+25.0,"Clock, frame calibrated, uniform decoder",Z,7,9485,20000,0.47425,0.003667142203900964
+25.0,"Clock, frame calibrated, uniform decoder",X,3,7754,20000,0.3877,0.0065190968234980495
+25.0,"Clock, frame calibrated, uniform decoder",X,5,8545,20000,0.42725,0.004448523537621041
+25.0,"Clock, frame calibrated, uniform decoder",X,7,9141,20000,0.45705,0.0034838489484176893
+25.0,"Clock, frame calibrated",Z,3,7034,20000,0.3517,0.005762025178545294
+25.0,"Clock, frame calibrated",Z,5,8384,20000,0.4192,0.0043373569034506065
+25.0,"Clock, frame calibrated",Z,7,8799,20000,0.43995,0.003307257299379418
+25.0,"Clock, frame calibrated",X,3,7228,20000,0.3614,0.005961850532448909
+25.0,"Clock, frame calibrated",X,5,8028,20000,0.4014,0.004096878270834159
+25.0,"Clock, frame calibrated",X,7,8502,20000,0.4251,0.0031581976051339167
+25.0,"Structured bath, ML inferred",Z,3,2020,20000,0.101,0.0011145986761658122
+25.0,"Structured bath, ML inferred",Z,5,946,20000,0.0473,0.00030447382032905423
+25.0,"Structured bath, ML inferred",Z,7,991,20000,0.04955,0.00022810259391137233
+25.0,"Structured bath, ML inferred",X,3,2301,20000,0.11505,0.00127939090174356
+25.0,"Structured bath, ML inferred",X,5,1282,20000,0.0641,0.00041624497184267195
+25.0,"Structured bath, ML inferred",X,7,1118,20000,0.0559,0.0002581869790054814
+25.0,"Structured bath, ML then fit",Z,3,906,20000,0.0453,0.00048499672903346003
+25.0,"Structured bath, ML then fit",Z,5,186,20000,0.0093,5.866338144533412e-05
+25.0,"Structured bath, ML then fit",Z,7,120,20000,0.006,2.698938886835922e-05
+25.0,"Structured bath, ML then fit",X,3,1007,20000,0.05035,0.0005404683914556063
+25.0,"Structured bath, ML then fit",X,5,308,20000,0.0154,9.743945166662549e-05
+25.0,"Structured bath, ML then fit",X,7,138,20000,0.0069,3.1051779822544034e-05
+25.0,"Structured bath, ML then fit, balanced check",Z,3,360,20000,0.018,0.0001365199885902113
+25.0,"Structured bath, ML then fit, balanced check",Z,5,48,20000,0.0024,1.0836696570093451e-05
+25.0,"Structured bath, ML then fit, balanced check",Z,7,8,20000,0.0004,1.2887981337694754e-06
+25.0,"Structured bath, ML then fit, balanced check",X,3,334,20000,0.0167,0.00012657733012333416
+25.0,"Structured bath, ML then fit, balanced check",X,5,52,20000,0.0026,1.1740925795034052e-05
+25.0,"Structured bath, ML then fit, balanced check",X,7,3,20000,0.00015,4.832390723130686e-07
+25.0,"Structured bath, exact (bound)",Z,3,956,20000,0.0478,0.0005124215617829941
+25.0,"Structured bath, exact (bound)",Z,5,191,20000,0.00955,6.02478965013864e-05
+25.0,"Structured bath, exact (bound)",Z,7,129,20000,0.00645,2.9020126422474313e-05
+25.0,"Structured bath, exact (bound)",X,3,1041,20000,0.05205,0.0005592077101939097
+25.0,"Structured bath, exact (bound)",X,5,273,20000,0.01365,8.629080382305254e-05
+25.0,"Structured bath, exact (bound)",X,7,148,20000,0.0074,3.33102476369751e-05
+25.0,"Structured bath, exact, balanced check (bound)",Z,3,333,20000,0.01665,0.00012619518076883995
+25.0,"Structured bath, exact, balanced check (bound)",Z,5,41,20000,0.00205,9.254729579688536e-06
+25.0,"Structured bath, exact, balanced check (bound)",Z,7,7,20000,0.00035,1.127670256950708e-06
+25.0,"Structured bath, exact, balanced check (bound)",X,3,321,20000,0.01605,0.00012161089214413057
+25.0,"Structured bath, exact, balanced check (bound)",X,5,44,20000,0.0022,9.932647790589222e-06
+25.0,"Structured bath, exact, balanced check (bound)",X,7,11,20000,0.00055,1.7722299704425737e-06
+50.0,"Clock, frame calibrated, uniform decoder",Z,3,6952,20000,0.3476,0.0028432662951041188
+50.0,"Clock, frame calibrated, uniform decoder",Z,5,8330,20000,0.4165,0.002152523300896103
+50.0,"Clock, frame calibrated, uniform decoder",Z,7,9519,20000,0.47595,0.0018444916288606894
+50.0,"Clock, frame calibrated, uniform decoder",X,3,6121,20000,0.30605,0.0024327385315557892
+50.0,"Clock, frame calibrated, uniform decoder",X,5,6287,20000,0.31435,0.0015084131417102409
+50.0,"Clock, frame calibrated, uniform decoder",X,7,8213,20000,0.41065,0.0015095310652705196
+50.0,"Clock, frame calibrated",Z,3,6470,20000,0.3235,0.0026020942110136502
+50.0,"Clock, frame calibrated",Z,5,7100,20000,0.355,0.0017524824549349782
+50.0,"Clock, frame calibrated",Z,7,9039,20000,0.45195,0.0017167782340666848
+50.0,"Clock, frame calibrated",X,3,5709,20000,0.28545,0.0022381735796066504
+50.0,"Clock, frame calibrated",X,5,5445,20000,0.27225,0.0012703831646687647
+50.0,"Clock, frame calibrated",X,7,7230,20000,0.3615,0.001280989127822374
+50.0,"Structured bath, ML inferred",Z,3,2247,20000,0.11235,0.0006426677788147206
+50.0,"Structured bath, ML inferred",Z,5,1288,20000,0.0644,0.0002154249260986063
+50.0,"Structured bath, ML inferred",Z,7,1043,20000,0.05215,0.000123811171586663
+50.0,"Structured bath, ML inferred",X,3,2618,20000,0.1309,0.0007565109700777839
+50.0,"Structured bath, ML inferred",X,5,1670,20000,0.0835,0.0002821652670395025
+50.0,"Structured bath, ML inferred",X,7,1380,20000,0.069,0.0001652722676397378
+50.0,"Structured bath, ML then fit",Z,3,423,20000,0.02115,0.00011830065938323031
+50.0,"Structured bath, ML then fit",Z,5,72,20000,0.0036,1.1975754405257888e-05
+50.0,"Structured bath, ML then fit",Z,7,13,20000,0.00065,1.5422196971703883e-06
+50.0,"Structured bath, ML then fit",X,3,392,20000,0.0196,0.00010954495126636044
+50.0,"Structured bath, ML then fit",X,5,90,20000,0.0045,1.4976431243374222e-05
+50.0,"Structured bath, ML then fit",X,7,19,20000,0.00095,2.25435095391191e-06
+50.0,"Structured bath, ML then fit, balanced check",Z,3,194,20000,0.0097,4.259621394075985e-05
+50.0,"Structured bath, ML then fit, balanced check",Z,5,33,20000,0.00165,4.329985259010627e-06
+50.0,"Structured bath, ML then fit, balanced check",Z,7,6,20000,0.0003,5.619570495607462e-07
+50.0,"Structured bath, ML then fit, balanced check",X,3,209,20000,0.01045,4.590701737661185e-05
+50.0,"Structured bath, ML then fit, balanced check",X,5,25,20000,0.00125,3.2796367989140762e-06
+50.0,"Structured bath, ML then fit, balanced check",X,7,6,20000,0.0003,5.619570495607462e-07
+50.0,"Structured bath, exact (bound)",Z,3,465,20000,0.02325,0.00013018525181152096
+50.0,"Structured bath, exact (bound)",Z,5,81,20000,0.00405,1.3475755000880163e-05
+50.0,"Structured bath, exact (bound)",Z,7,17,20000,0.00085,2.016950167216258e-06
+50.0,"Structured bath, exact (bound)",X,3,380,20000,0.019,0.00010615934015201223
+50.0,"Structured bath, exact (bound)",X,5,80,20000,0.004,1.3309054913923646e-05
+50.0,"Structured bath, exact (bound)",X,7,19,20000,0.00095,2.25435095391191e-06
+50.0,"Structured bath, exact, balanced check (bound)",Z,3,184,20000,0.0092,4.0390398286294094e-05
+50.0,"Structured bath, exact, balanced check (bound)",Z,5,41,20000,0.00205,5.3807535334016166e-06
+50.0,"Structured bath, exact, balanced check (bound)",Z,7,8,20000,0.0004,7.493134716041183e-07
+50.0,"Structured bath, exact, balanced check (bound)",X,3,204,20000,0.0102,4.480313871768615e-05
+50.0,"Structured bath, exact, balanced check (bound)",X,5,22,20000,0.0011,2.885864291091167e-06
+50.0,"Structured bath, exact, balanced check (bound)",X,7,4,20000,0.0002,3.746193327769376e-07
